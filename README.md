@@ -24,3 +24,11 @@ Features of the Phone Directory are as follows:
 * To modify the phone number of user
 * To search for any record
 * To display all the records in alphabetical order to make searching easier
+
+### SCREENSHOTS:
+
+*	INSERTION OF DATA:
+* DISPLAYING DATA
+* SEARCHING FOR A RECORD
+* DELETION OF RECORD
+* MODIFICATION OF DATA
