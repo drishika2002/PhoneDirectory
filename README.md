@@ -29,15 +29,20 @@ Features of the Phone Directory are as follows:
 
 *	INSERTION OF DATA:
 
-<img href="insert.png">
+<img src="insert.png">
 
 * DISPLAYING DATA
 
-<img href="display.png">
+<img src="display.png">
 
 * SEARCHING FOR A RECORD
+
+<img src="display.png">
+
 * DELETION OF RECORD
 
-<img href="delete.png">
+<img src="delete.png">
 
 * MODIFICATION OF DATA
+
+<img src="display.png">
