@@ -28,7 +28,16 @@ Features of the Phone Directory are as follows:
 ### SCREENSHOTS:
 
 *	INSERTION OF DATA:
+
+<img href="insert.png">
+
 * DISPLAYING DATA
+
+<img href="display.png">
+
 * SEARCHING FOR A RECORD
 * DELETION OF RECORD
+
+<img href="delete.png">
+
 * MODIFICATION OF DATA
