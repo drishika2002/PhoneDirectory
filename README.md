@@ -37,7 +37,7 @@ Features of the Phone Directory are as follows:
 
 * SEARCHING FOR A RECORD
 
-<img src="display.png">
+<img src="search.png">
 
 * DELETION OF RECORD
 
@@ -45,4 +45,4 @@ Features of the Phone Directory are as follows:
 
 * MODIFICATION OF DATA
 
-<img src="display.png">
+<img src="modify.png">
